@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, gaming , etc
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me https://twitter.com/pem_tshewang4
 
 
 <!---
