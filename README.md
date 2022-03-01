@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-- <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
 
