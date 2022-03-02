@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @pemtshewang
-- 👀 I’m interested in coding, gaming , etc
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👋 Hi, I’m ***Pem Tshewang***
+- 👀 I’m interested in *coding*, *gaming* , *etc*
+- 🌱 I’m currently learning *Web Development*
+                                                               ***Reach Me Here***
+
+ 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
