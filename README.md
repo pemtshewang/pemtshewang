@@ -1,10 +1,10 @@
 - 👋 Hi, I’m ***Pem Tshewang***
 - 👀 I’m interested in *coding*, *gaming* , *etc*
 - 🌱 I’m currently learning *Web Development*
-
-
-
-                                                               ***Reach Me Here***
+#
+#
+#
+#                                                              ***Reach Me Here***
 
  
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
