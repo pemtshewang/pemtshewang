@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ***Pem Tshewang***
 - 👀 I’m interested in *coding*, *gaming* , *etc*
-- 🌱 I’m currently learning *Web Development*
+- 🌱 I’m currently learning *Web Development*,*Unix Scripting*,*Computer Networking*,*OS concepts*
 
 #                                                               ***Reach Me Here***
 
