@@ -6,7 +6,7 @@
 ---
 <h2 align='center'>✍️Start Your Journey With</h2>
 
-<p align='center'>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)</p>
+<p align='center'><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight'></p>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PemTshewang) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pemtshewang_4) 
