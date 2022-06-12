@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m ***Pem Tshewang***
 <br>
-From: <img src='https://flagicons.lipis.dev/flags/4x3/bt.svg'>
+From: <img src='https://flagicons.lipis.dev/flags/4x3/bt.svg' width=100px height=100px align='right'>
 - 👀 I’m interested in *coding*, *gaming* , *etc*
 - 🌱 I’m currently learning *Web Development*,*Unix Scripting*,*Computer Networking*,*OS concepts*
 ---
