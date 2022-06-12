@@ -23,5 +23,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=pemtshewang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pemtshewang.pemtshewang)
 [![](https://visitcount.itsvg.in/api?id=pemtshewang&icon=0&color=8)](https://visitcount.itsvg.in)
