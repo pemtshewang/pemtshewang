@@ -1,6 +1,8 @@
 # 💫 ༄ ང་རའི་ སྐོར་ལས།:
 
 - 👋 Hi, I’m ***Pem Tshewang***
+<br>
+From: <img src='https://flagicons.lipis.dev/flags/4x3/bt.svg'>
 - 👀 I’m interested in *coding*, *gaming* , *etc*
 - 🌱 I’m currently learning *Web Development*,*Unix Scripting*,*Computer Networking*,*OS concepts*
 ---
