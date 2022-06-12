@@ -1,8 +1,8 @@
 # 💫 ༄ ང་རའི་ སྐོར་ལས།:
 
 <li>👋 Hi, I’m Pem Tshewang</li>
-From:
-<img src='https://flagicons.lipis.dev/flags/4x3/bt.svg' width=100px height=100px > And I am <b>Bhutanese</b>
+<b>Bhutanese</b> From :::
+<img src='https://flagicons.lipis.dev/flags/4x3/bt.svg' width=100px height=100px >
 <li>👀 I’m interested in coding, gaming , etc</li>
 <li>🌱 I’m currently learning Web Development,Unix Scripting,Computer Networking,OS concepts</li>
 
