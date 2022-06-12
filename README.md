@@ -3,7 +3,9 @@
 - 👋 Hi, I’m ***Pem Tshewang***
 - 👀 I’m interested in *coding*, *gaming* , *etc*
 - 🌱 I’m currently learning *Web Development*,*Unix Scripting*,*Computer Networking*,*OS concepts*
-
+---
+<h2 align='center'>✍️Start Your Journey With</h2>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PemTshewang) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pemtshewang_4) 
 
@@ -18,10 +20,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pemtshewang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 👀Visitors
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pemtshewang.pemtshewang)
 ---
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pemtshewang.pemtshewang)
 [![](https://visitcount.itsvg.in/api?id=pemtshewang&icon=0&color=8)](https://visitcount.itsvg.in)
