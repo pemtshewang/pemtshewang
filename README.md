@@ -1,15 +1,13 @@
 # 💫 ༄ ང་རའི་ སྐོར་ལས།:
 
 <li>👋 Hi, I’m Pem Tshewang</li>
-<b>Bhutanese</b> From :::
-<img src='https://flagicons.lipis.dev/flags/4x3/bt.svg' width=100px height=100px >
 👀 I’m interested in coding, gaming , etc
 <br>
 🌱 I’m currently learning Web Development,Unix Scripting,Computer Networking,OS concepts
 
 ---
 
-<h2 align='center'>✍️Start Your Journey With</h2>
+<h2 align='center'>Force Field</h2>
 
 <p align='center'><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight'></p>
 
