@@ -1,6 +1,6 @@
 # 💫 ༄ ང་རའི་ སྐོར་ལས།:
 
-- Want to know More? Visit [pemtshewang.is-a.dev](pemtshewang.is-a.dev)
+### Want to know More? Visit ***[pemtshewang.is-a.dev](pemtshewang.is-a.dev)***
 
 ```python
 >>>print(name)
