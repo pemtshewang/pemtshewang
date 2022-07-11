@@ -12,7 +12,53 @@
 >>>Getting pid ...
 >>>Agent 542 -> Never Give Up and you will know the rest!
 ```
+## Roadmaps and still learning
 
+```bash
+[pemtshewang]$ whois pemtshewang
+age: [======] 22yrs old
+height: 5'7
+weight: 59 lbs
+
+[pemtshewang]$ cat programminglanguages
+C++.cpp Javascript.js C.c Python2-3.10.py BF.bf 
+Java.java Nodejs.js Style.css HTML.html Typescript.ts
+
+[pemtshewang]$ pushd iknowOStoo; cat OS
+home/pemtshewang -> iknowOStoo;
+1. Lubuntu
+2. Xubuntu
+3. Microsoft Windows 8,10
+4. Kali Linux
+5. Parrot OS
+6. RHEL 8
+7. Puppy Linux
+8. Slack OS
+9. Ubuntu
+
+[pemtshewang/iknowOStoo]$ cat ~/versionControl
+1. GitHub
+2. GitLab
+3. BitBucket
+
+[pemtshewang/iknowOStoo]$ cat intoPentesting
+1. Metasploit
+2. WireShark
+3. Angry IP Scanner
+4. Nmap
+5. John The Ripper
+6. Hashcat
+7. Hydra
+8. Burpsuite
+9. Still a beginner and learning
+
+[pemtshewang]$ more learning
+Learning Web3
+Learning Blockchain
+Learning SoftSkills
+Learning CP
+more to learn ---
+```
 ---
 
 <h2 align='center'>Force Field</h2>
