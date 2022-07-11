@@ -1,9 +1,17 @@
 # 💫 ༄ ང་རའི་ སྐོར་ལས།:
 
-<li>👋 Hi, I’m Pem Tshewang</li>
-👀 I’m interested in coding, gaming , etc
-<br>
-🌱 I’m currently learning Web Development,Unix Scripting,Computer Networking,OS concepts
+```python
+>>>print(name)
+'Pem Tshewang'
+
+>>>import subprocess
+>>>subprocess.call(['from where'])
+>>>I am was born in Bhutan and I am from Bhutan
+
+>>>subprocess.call(list(map(str,'sudo systemctl start service'.split())))
+>>>Getting pid ...
+>>>Agent 542 -> Never Give Up and you will know the rest!
+```
 
 ---
 
