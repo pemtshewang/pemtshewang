@@ -2,32 +2,35 @@
 
 ### Want to know More? Visit ***[pemtshewang.is-a.dev](https://pemtshewang.is-a.dev)***
 
-```python
->>>print(name)
-'Pem Tshewang'
-
->>>import subprocess
->>>subprocess.call(['from where'])
->>>I am was born in Bhutan and I am from Bhutan
-
->>>subprocess.call(list(map(str,'sudo systemctl start service'.split())))
->>>Getting pid ...
->>>Agent 542 -> Never Give Up and you will know the rest!
-```
-## Roadmaps and still learning
+# Hello There👋
 
 ```bash
-[pemtshewang]$ whois pemtshewang
-age: [======] 22yrs old
-height: 5\'7
-weight: 59 lbs
+~$ whoami
+'Pem Tshewang'
 
-[pemtshewang]$ cat programminglanguages
+~$ man pemtshewang
+
+pemtshewang - a 22 year old university student and a stealthy programmer
+
+-a,--age - 22 year old
+-w,--weight - 59 lbs
+-h,--height - 5/'9
+-c,--college - College of Science and Technology
+-y,--year - a 3rd year student currently pursuing Bachelor of Engineering in Information Technology
+-h,--hobby - competitive programming
+-l,--languages - speaks Dzongkha, Nepali, Sharchop and English
+-fc,--family-count - 5No
+-i,--idol - Linus Torvald 
+-l,--loves - William Lin, Errichto and Ecnerwala
+-e,--editor - Neovim
+-os,--OperatingSys - Ubuntu LTS 22.02 and Windows 10 Home Single Language
+-t,--gottotellyoumore - 🦾
+
+~$ cat programminglanguages
 C++.cpp Javascript.js C.c Python2-3.10.py BF.bf 
 Java.java Nodejs.js Style.css HTML.html Typescript.ts
 
-[pemtshewang]$ pushd iknowOStoo; cat OS
-home/pemtshewang -> iknowOStoo;
+~$ cat OS
 1. Lubuntu
 2. Xubuntu
 3. Microsoft Windows 8,10
@@ -38,12 +41,12 @@ home/pemtshewang -> iknowOStoo;
 8. Slack OS
 9. Ubuntu
 
-[pemtshewang/iknowOStoo]$ cat ~/versionControl
+~$ cat ~/versionControl
 1. GitHub
 2. GitLab
 3. BitBucket
 
-[pemtshewang/iknowOStoo]$ cat intoPentesting
+~$ cat intoPentesting
 1. Metasploit
 2. WireShark
 3. Angry IP Scanner
@@ -54,7 +57,7 @@ home/pemtshewang -> iknowOStoo;
 8. Burpsuite
 9. Still a beginner and learning
 
-[pemtshewang]$ more learning
+$more learning
 Learning Web3
 Learning Blockchain
 Learning SoftSkills
