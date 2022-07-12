@@ -14,7 +14,7 @@ pemtshewang - a 22 year old university student and a stealthy programmer
 
 -a,--age - 22 year old
 -w,--weight - 59 lbs
--h,--height - 5/'9
+-h,--height - 5 &#39;9
 -c,--college - College of Science and Technology
 -y,--year - a 3rd year student currently pursuing Bachelor of Engineering in Information Technology
 -h,--hobby - competitive programming
