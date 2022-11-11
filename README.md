@@ -1,72 +1,8 @@
 # 💫 ༄ ང་རའི་ སྐོར་ལས།:
-
-### Want to know More? Visit ***[pemtshewang.is-a.dev](https://pemtshewang.is-a.dev)***
-
-# Hello There👋
-
-```bash
-~$ whoami
-'Pem Tshewang'
-
-~$ man pemtshewang
-
-pemtshewang - a 22 year old university student and a stealthy programmer
-
--a,--age - 22 year old
--w,--weight - 59 lbs
--h,--height - 5 9
--c,--college - College of Science and Technology
--y,--year - a 3rd year student currently pursuing Bachelor of Engineering in Information Technology
--h,--hobby - competitive programming
--l,--languages - speaks Dzongkha, Nepali, Sharchop and English
--fc,--family-count - 5No
--i,--idol - Linus Torvald 
--l,--loves - William Lin, Errichto and Ecnerwala
--e,--editor - Neovim
--os,--OperatingSys - Ubuntu LTS 22.02 and Windows 10 Home Single Language
--t,--gottotellyoumore - 🦾
-
-~$ cat programminglanguages
-C++.cpp Javascript.js C.c Python2-3.10.py BF.bf 
-Java.java Nodejs.js Style.css HTML.html Typescript.ts
-
-~$ cat OS
-1. Lubuntu
-2. Xubuntu
-3. Microsoft Windows 8,10
-4. Kali Linux
-5. Parrot OS
-6. RHEL 8
-7. Puppy Linux
-8. Slack OS
-9. Ubuntu
-
-~$ cat ~/versionControl
-1. GitHub
-2. GitLab
-3. BitBucket
-
-~$ cat intoPentesting
-1. Metasploit
-2. WireShark
-3. Angry IP Scanner
-4. Nmap
-5. John The Ripper
-6. Hashcat
-7. Hydra
-8. Burpsuite
-9. Still a beginner and learning
-
-$more learning
-Learning Web3
-Learning Blockchain
-Learning SoftSkills
-Learning CP
-more to learn ---
-```
 ---
+> To know a man, he has to keep his legacy
 
-<h2 align='center'>Force Field</h2>
+<h2 align='center'>SYRRINGE</h2>
 
 <p align='center'><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight'></p>
 
