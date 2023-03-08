@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **CPU Scheduler**
 
-- 🌱 I’m currently learning **MERN, Rust, WEB3 , ...**
+- 🌱 I’m currently learning **MERN, Rust, WEB3 , THREEJS ...**
 
 - 👯 I’m looking to collaborate on **any projects**
 
