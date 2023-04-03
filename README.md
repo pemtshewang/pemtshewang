@@ -17,8 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [comingsoon](comingsoon)
 
-- 📝 I regularly write articles on [...](...)
-
 - 💬 Ask me about **Python3, JS, React, Express, Django, Java For Android, HTML, Css and its frameworks, ...**
 
 - 📫 How to reach me **pemtshewang500@gmail.com**
