@@ -54,3 +54,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pemtshewang&show_icons=true&locale=en" alt="pemtshewang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pemtshewang&" alt="pemtshewang" /></p>
+<a href="https://app.daily.dev/pemtshewang"><img src="https://api.daily.dev/devcards/98039a49e1514dd1a71c7abfabffcaec.png?r=0a2" width="400" alt="Pem Tshewang's Dev Card"/></a>
