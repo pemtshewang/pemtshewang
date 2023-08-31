@@ -1,6 +1,6 @@
 <p align='center'><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight'></p>
 
-<h1 align="center">Hi 👋, I'm pemtshewang</h1>
+<h1 align="center">Life is typing...</h1>
 <h3 align="center">The Software Voyager: Embarking on a journey through the vastness of code, exploring new worlds and solving challenging problems along the way</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pemtshewang&label=Profile%20views&color=0e75b6&style=flat" alt="pemtshewang" /> </p>
