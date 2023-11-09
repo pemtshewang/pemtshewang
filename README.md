@@ -19,19 +19,25 @@
 - ⚡ Fun fact **I've been known to get lost in my code for hours on end, but hey, that's just me exploring the vast and ever-changing landscape of software development**
 
 ## My Works
-1. [Samchar](https://samchar.vercel.app) - A Full Stack NextJS application built as Grievances System for CST.
+1. [Samchar](https://samchar.vercel.app) 
+> A Full Stack NextJS application built as Grievances System for CST. Featuring upvotes for the posted grievances and the system provides analytics for the posted grievances.
+
    - Works as RBACs and emails are entertained for only specific domain (.cst.edu.bt)
    - Anonymity at frontend
    - Featuring NextAuth for authentication
    - UI library - Its all shadcn with lucide-icons
    - Future works - `making it mobile responsive`
    
-2. [bhutanese-shamu](https://bhutanese-shamu.vercel.app)
+2. **Bhutanese Shamu](https://bhutanese-shamu.vercel.app)**
 > Bhutanese-shamu is bhutanese mushroom detection website. We built our custom dataset trained googlenet model with good accuracy while training and testing. The project was carried out as mini project in aritificial intelligence module while at 4th year 1st sem. The dataset consists of approximately 8000 image of all mushrooms with 800 images in each class(10). The backend is built with Django and a headless frontend system is built with NextJS 14.
 
-    - Backend : https://pythonanywhere.com
-    - Frontend : https://vercel.app
-    - Dataset : collected from google 
+   - Backend : https://pythonanywhere.com
+   - Frontend : https://vercel.app
+   - Dataset : collected from google sources  
+   - Features
+      - Detects given mushroom
+      - Maps the detected mushroom to their Dzongkha names
+      - Provides short description on the detected mushroom
 
 ### 🌈 Gratitude Extravaganza
 
