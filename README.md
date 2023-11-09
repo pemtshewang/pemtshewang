@@ -28,7 +28,7 @@
    - UI library - Its all shadcn with lucide-icons
    - Future works - `making it mobile responsive`
    
-2. **Bhutanese Shamu](https://bhutanese-shamu.vercel.app)**
+2. **[Bhutanese Shamu](https://bhutanese-shamu.vercel.app)**
 > Bhutanese-shamu is bhutanese mushroom detection website. We built our custom dataset trained googlenet model with good accuracy while training and testing. The project was carried out as mini project in aritificial intelligence module while at 4th year 1st sem. The dataset consists of approximately 8000 image of all mushrooms with 800 images in each class(10). The backend is built with Django and a headless frontend system is built with NextJS 14.
 
    - Backend : https://pythonanywhere.com
