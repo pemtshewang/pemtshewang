@@ -1,34 +1,45 @@
-<p align='center'><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight'></p>
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h1 align="center">Life is typing...</h1>
-<h3 align="center">The Software Voyager: Embarking on a journey through the vastness of code, exploring new worlds and solving challenging problems along the way</h3>
+# Personal Vault 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pemtshewang&label=Profile%20views&color=0e75b6&style=flat" alt="pemtshewang" /> </p>
+### The Software Voyager: Embarking on a journey through the vastness of code, exploring new worlds and solving challenging problems along the way
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pemtshewang" alt="pemtshewang" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=pemtshewang&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://twitter.com/pemtshewang_4" target="blank"><img src="https://img.shields.io/twitter/follow/pemtshewang_4?logo=twitter&style=for-the-badge" alt="pemtshewang_4" /></a> </p>
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pemtshewang)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/pemtshewang_4?logo=twitter&style=for-the-badge)](https://twitter.com/pemtshewang_4)
 
 - 🔭 I’m currently working on **CPU Scheduler**
-
-- 🌱 I’m currently learning **MERN, Rust, WEB3 , THREEJS ...**
-
+- 🌱 I’m currently learning **MERN, Rust, WEB3, THREEJS...**
 - 👯 I’m looking to collaborate on **any projects**
-
-- 👨‍💻 All of my projects are available at [comingsoon](comingsoon)
-
-- 💬 Ask me about **Python3, JS, React, Express, Django, Java For Android, HTML, Css and its frameworks, ...**
-
+- 💬 Ask me about **Python3, JS, React, Express, Django, Java For Android, HTML, Css and its frameworks...**
 - 📫 How to reach me **pemtshewang500@gmail.com**
-
 - 📄 Know about my experiences [resumelink.com](resumelink.com)
-
 - ⚡ Fun fact **I've been known to get lost in my code for hours on end, but hey, that's just me exploring the vast and ever-changing landscape of software development**
 
-### My Works
-- 1. [Samchar](https://samchar.vercel.app) - A full stack nextjs application built as Grievances System.
-- Works as RBACs and emails are entertained for only specific domain
-- Anonymity at frontend
+## My Works
+1. [Samchar](https://samchar.vercel.app) - A Full Stack NextJS application built as Grievances System for CST.
+   - Works as RBACs and emails are entertained for only specific domain (.cst.edu.bt)
+   - Anonymity at frontend
+   - Featuring NextAuth for authentication
+   - UI library - Its all shadcn with lucide-icons
+   - Future works - `making it mobile responsive`
+   
+2. [bhutanese-shamu](https://bhutanese-shamu.vercel.app)
+> Bhutanese-shamu is bhutanese mushroom detection website. We built our custom dataset trained googlenet model with good accuracy while training and testing. The project was carried out as mini project in aritificial intelligence module while at 4th year 1st sem. The dataset consists of approximately 8000 image of all mushrooms with 800 images in each class(10). The backend is built with Django and a headless frontend system is built with NextJS 14.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/pemtshewang"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pemtshewang" /></a></p><br><br>
+    - Backend : https://pythonanywhere.com
+    - Frontend : https://vercel.app
+    - Dataset : collected from google 
+
+### 🌈 Gratitude Extravaganza
+
+- In the grand tapestry of code, I find myself weaving alongside extraordinary mentors and teammates—architects of the imagination, alchemists of dreams. Together, we've embarked on a transformative odyssey, molding mere ideas into the palpable reality of code.
+
+- 🚀 A cosmic shout-out to these guiding stars, my mentors and teammates, for not just being part of the journey but becoming the journey itself. With their cosmic wisdom and collaborative spirit, we've conjured digital wonders that defy the ordinary.
+
+- 🌟 But wait, the cosmic symphony doesn't end there! Enter the celestial benefactors, the free hosting wizards—Vercel, PythonAnywhere, and their kin. In their benevolence, they've opened portals to the digital realm, offering free sanctuaries where imaginations roam free and dreams take flight.
+
+- 🌌 Together, we're not just coding; we're orchestrating a cosmic ballet of innovation, and for that, my deepest appreciation resonates across the digital cosmos.
+
