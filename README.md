@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I've been known to get lost in my code for hours on end, but hey, that's just me exploring the vast and ever-changing landscape of software development**
 
 ## My Works
-1. [Samchar](https://samchar.vercel.app) 
+1. **[Samchar](https://samchar.vercel.app)**
 > A Full Stack NextJS application built as Grievances System for CST. Featuring upvotes for the posted grievances and the system provides analytics for the posted grievances.
 
    - Works as RBACs and emails are entertained for only specific domain (.cst.edu.bt)
