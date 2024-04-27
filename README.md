@@ -20,7 +20,7 @@ exploring new worlds and solving challenging problems along the way
 <h3 align="center">Github Trophy</h3>
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=dracula"
+    src="https://github-profile-trophy.vercel.app/?username=pemtshewang&row=2&column=3&theme=dracula"
     alt="image quote"
   />
 </div>
