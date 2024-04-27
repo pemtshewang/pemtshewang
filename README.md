@@ -2,21 +2,20 @@
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="image quote">
 </div>
 
-### Who am I ?
+<h3 align="center">Who am I ?</h3>
 > The Software Voyager: Embarking on a journey through the vastness of code, exploring new worlds and solving challenging problems along the way
 
-### Profile Views
+<h3 align="center">Profile Views</h3>
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=pemtshewang&label=Profile%20views&color=0e75b6&style=flat" alt="image quote">
 </div>
 
-### Github Trophy
+<h3 align="center">Github Trophy</h3>
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=onedark" alt="image quote">
+   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=dracula" alt="image quote">
 </div>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/pemtshewang_4?logo=twitter&style=for-the-badge)](https://twitter.com/pemtshewang_4)
-
+<h3 align="center">Get to know my works</h3>
 - 🔭 I’m currently working on **CPU Scheduler**
 - 🌱 I’m currently learning **MERN, Rust, WEB3, THREEJS...**
 - 👯 I’m looking to collaborate on **any projects**
@@ -25,7 +24,7 @@
 - 📄 Know about my experiences [resumelink.com](resumelink.com)
 - ⚡ Fun fact: **I've been known to get lost in my code for hours on end, but hey, that's just me exploring the vast and ever-changing landscape of software development**
 
-## My Works
+<h3 align="center">My Projects</h3>
 1. **[Samchar](https://samchar.vercel.app)**
 > A Full Stack NextJS application built as a Grievances System for CST. Featuring upvotes for the posted grievances, and the system provides analytics for the posted grievances.
 
@@ -46,7 +45,7 @@
       - Maps the detected mushroom to their Dzongkha names
       - Provides a short description of the detected mushroom
 
-### 🌈 Gratitude Extravaganza
+<h3 align="center">🌈 Gratitude Extravaganza</h3>
 
 - In the grand tapestry of code, I find myself weaving alongside extraordinary mentors and teammates—architects of the imagination, alchemists of dreams. Together, we've embarked on a transformative odyssey, molding mere ideas into the palpable reality of code.
 
