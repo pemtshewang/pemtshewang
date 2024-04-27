@@ -1,5 +1,5 @@
 <div align="center">
-!\[Quotes\](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>)
 
 # Personal Vault 
