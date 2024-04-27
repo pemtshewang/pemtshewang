@@ -2,13 +2,18 @@
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="image quote">
 </div>
 
-# Personal Vault 
+### Who am I ?
+> The Software Voyager: Embarking on a journey through the vastness of code, exploring new worlds and solving challenging problems along the way
 
-### The Software Voyager: Embarking on a journey through the vastness of code, exploring new worlds and solving challenging problems along the way
+### Profile Views
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=pemtshewang&label=Profile%20views&color=0e75b6&style=flat" alt="image quote">
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pemtshewang&label=Profile%20views&color=0e75b6&style=flat)
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pemtshewang)](https://github.com/ryo-ma/github-profile-trophy)
+### Github Trophy
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=onedark" alt="image quote">
+</div>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/pemtshewang_4?logo=twitter&style=for-the-badge)](https://twitter.com/pemtshewang_4)
 
