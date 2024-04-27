@@ -1,4 +1,4 @@
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div style="display:flex; flex-direction:row; justify-content:center;">![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)</div>
 
 # Personal Vault 
 
