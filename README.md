@@ -6,8 +6,8 @@
 </div>
 
 <h3 align="center">Who am I ?</h3>
-> The Software Voyager: Embarking on a journey through the vastness of code,
-exploring new worlds and solving challenging problems along the way
+<blockquote>The Software Voyager: Embarking on a journey through the vastness of code,
+exploring new worlds and solving challenging problems along the way</blockquote>
 
 <h3 align="center">Profile Views</h3>
 <div align="center">
