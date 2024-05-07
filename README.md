@@ -33,10 +33,6 @@ exploring new worlds and solving challenging problems along the way</blockquote>
     💬 Ask me about Python3, JS, React, Express, Django, Java For Android, HTML,
     CSS, and its frameworks...
   </li>
-  <li>
-    Know about my experiences [resumelink.com](resumelink.com) ⚡ Fun fact:
-    **I've
-  </li>
 </ul>
 
 <h3 align="center">My Projects</h3>
