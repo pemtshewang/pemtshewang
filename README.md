@@ -27,11 +27,11 @@ exploring new worlds and solving challenging problems along the way</blockquote>
 
 <h3 align="center">Get to know my works</h3>
 <ul style="list-style-type: none">
-  <li>🌱 I’m currently learning MERN, Rust, WEB3, THREEJS</li>
+  <li>🌱 I’m currently learning Rust, WEB3, THREEJS, ASP.NET Core</li>
   <li>👯 I’m looking to collaborate on any projects</li>
   <li>
     💬 Ask me about Python3, JS, React, Express, Django, Java For Android, HTML,
-    CSS, and its frameworks...
+    CSS, NextJS, Angular, ...
   </li>
 </ul>
 
