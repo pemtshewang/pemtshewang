@@ -66,7 +66,7 @@ STATUS     : Always learning. Never done.
 
 ![Streak](https://streak-stats.demolab.com?user=pemtshewang&theme=matrix&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pemtshewang&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pemtshewang&layout=compact&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&langs_count=8&cache_seconds=1800)
 
 </div>
 
@@ -79,7 +79,7 @@ STATUS     : Always learning. Never done.
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=pemtshewang&theme=matrix&no-frame=true&row=1&column=6)
+![Trophy](https://github-profile-trophy.vercel.app/?username=pemtshewang&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10)
 
 </div>
 
