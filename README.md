@@ -70,11 +70,8 @@ STATUS     : Always learning. Never done.
 
 ```bash
 
-</div>
-
 ---
 
-```bash
 ┌──(pemtshewang㉿kali)-[~]
 └─$ ./activity_graph.sh
 ```
